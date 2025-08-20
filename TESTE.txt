@@ -1,2 +1,5 @@
 Primeiro arquivo no git
-au
+
+Segundo commit no git
+
+Terceiro commit no git
